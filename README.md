@@ -1,6 +1,6 @@
-# Hi there, I'm Brent! 👋
+## I can help your team get faster at converting ideas to insights, with higher confidence. <a href="https://www.aimpointdigital.com/meet-an-expert" target="_blank">Drop me a line.</a>
 
-## :rocket: About Me
+## 👋 About Me
 
 - Principal Data Engineering Consultant at [Aimpoint Digital](https://www.aimpointdigital.com/team/brent-brewington)[^1]
 - I'm excited about the overlap of Lean Management & Data teams, a.k.a. [DataOps](https://www.aimpointdigital.com/services/data-engineering-infrastructure)
