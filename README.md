@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=Snowflake)
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=Google%20Cloud)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
@@ -24,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=github%20actions)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker)
+![Terraform](https://img.shields.io/badge/-Terraform-181717?style=flat-square&logo=Terraform)
 
 
 ## 🎓 Certifications
