@@ -1,4 +1,4 @@
-## I can help your team get faster at converting ideas to insights, with higher confidence. <a href="https://www.aimpointdigital.com/meet-an-expert" target="_blank">Drop me a line.</a>
+## I can help your team get faster at converting ideas to insights, with higher confidence. <a href="https://www.aimpointdigital.com/meet-an-expert" target="_blank" rel="noreferrer noopener">Drop me a line.</a>
 
 ## 👋 About Me
 
@@ -28,8 +28,8 @@
 
 ## 🎓 Certifications
 
-<a href="https://www.credly.com/badges/89b9d428-ebcf-4fa4-8791-cfe1d0e4046f" title="GitHub Foundations Certification" target="_blank"><img align="center" src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification" style="width:128px;height:128px;"></img></a>
-<a href="https://credentials.databricks.com/724c46bf-f6af-42d4-b4dd-3ecddf857b31" title="Databricks Certified Data Engineer Associate" target="_blank"><img align="center" src="https://templates.images.credential.net/17101804294154462951021971493675.png" alt="Databricks Certified Data Engineer Associate" style="width:100px;height:138px;"></a>
-<a href="https://achieve.snowflake.com/ff8de05a-a409-49e2-81bd-785ca086e352" title="Snowflake SnowPro Core Certification" target="_blank"><img align="center" src="https://templates.images.credential.net/17217634052294912642396856123542.png" alt="Snowflake SnowPro Core Certification" style="width:140px;height:128px;"></a>
+<a href="https://www.credly.com/badges/89b9d428-ebcf-4fa4-8791-cfe1d0e4046f" title="GitHub Foundations Certification" target="_blank" rel="noreferrer noopener"><img align="center" src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification" style="width:128px;height:128px;"></img></a>
+<a href="https://credentials.databricks.com/724c46bf-f6af-42d4-b4dd-3ecddf857b31" title="Databricks Certified Data Engineer Associate" target="_blank" rel="noreferrer noopener"><img align="center" src="https://templates.images.credential.net/17101804294154462951021971493675.png" alt="Databricks Certified Data Engineer Associate" style="width:100px;height:138px;"></a>
+<a href="https://achieve.snowflake.com/ff8de05a-a409-49e2-81bd-785ca086e352" title="Snowflake SnowPro Core Certification" target="_blank" rel="noreferrer noopener"><img align="center" src="https://templates.images.credential.net/17217634052294912642396856123542.png" alt="Snowflake SnowPro Core Certification" style="width:140px;height:128px;"></a>
 
 [^1]: Aimpoint Digital is a data, analytics, and AI consultancy: Databricks Digital Native Partner of the Year, Snowflake Elite Partner, and a dbt Labs Preferred Partner. We are focused on delivering the best solutions to drive tangible, measurable results for our clients without any platform bias.  It's a certifiable [great place to work](https://www.aimpointdigital.com/blog/fortune-aimpoint-digital-2023-best-small-workplaces)
