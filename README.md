@@ -19,7 +19,7 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
-<br>
+<br>&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=github%20actions)
