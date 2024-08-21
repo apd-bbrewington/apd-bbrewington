@@ -1,4 +1,4 @@
-## I can help your team get faster at converting ideas to insights, with higher confidence. <a href="https://www.aimpointdigital.com/meet-an-expert" target="_blank" rel="noreferrer noopener">Drop me a line.</a>
+## We can help your team get faster at converting ideas to insights, with higher confidence. <a href="https://www.aimpointdigital.com/meet-an-expert" target="_blank" rel="noreferrer noopener">Drop us a line.</a>
 
 ## 👋 About Me
 
